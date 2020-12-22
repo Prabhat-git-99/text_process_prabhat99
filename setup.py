@@ -5,7 +5,7 @@ with open('README.md', 'r') as file:
 
 
 setuptools.setup(
-	name = 'text_process_prabhat99', #this should be unique
+	name = 'text_process_prabhat99', 
 	include_package_data=True,
 	version = '0.1.0',
 	author = 'Prabhat Singh',

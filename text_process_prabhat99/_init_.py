@@ -36,7 +36,7 @@ def remove_emails(x):
 	return utils._remove_emails(x)
 
 def get_urls():
-	return utils._get_urls(x)
+	return utils._get_urls()
 
 def remove_urls(x):
 	return utils._remove_urls(x)
