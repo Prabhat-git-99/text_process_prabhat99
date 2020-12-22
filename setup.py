@@ -7,7 +7,7 @@ with open('README.md', 'r') as file:
 setuptools.setup(
 	name = 'text_process_prabhat99', 
 	include_package_data=True,
-	version = '0.1.0',
+	version = '0.0.1',
 	author = 'Prabhat Singh',
 	author_email = 'prabatwork3939@gmail.com',
 	description = 'This is preprocessing package',
